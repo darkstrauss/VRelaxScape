@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c69921d8826bd054e8f938511464dc6c, type: 3}
+  m_Name: Default Tree Data
+  m_EditorClassIdentifier: 
+  m_autoUpdate: 1
+  m_noiseSettings: {fileID: 11400000, guid: 884befb3dd2af01428ae70802a414828, type: 2}
+  m_trees:
+  - {fileID: 1092547929516866, guid: f63587239d5bd4c4e935107e52bcfeba, type: 2}
+  - {fileID: 1272124808318560, guid: 52289935f43c2574fa1e335797aa3aaf, type: 2}
+  - {fileID: 1069289201138886, guid: 6b444276162548b4e9107350b71e775a, type: 2}
+  - {fileID: 1593950697155818, guid: d2cd02263a1e8084abf81f1324b929be, type: 2}
+  - {fileID: 1801051655978014, guid: 07304ff192777c64dbd3ab07f69f0ee3, type: 2}
+  - {fileID: 1254010321861858, guid: 90c002318cd3c464188c9970e8b2541c, type: 2}
+  - {fileID: 1727526191465158, guid: 1e1bf76422e92c6428eeb7ce87442910, type: 2}
+  - {fileID: 1604513265433918, guid: 5564ff261fae26c49b51e61836b83067, type: 2}
+  m_foliage: []

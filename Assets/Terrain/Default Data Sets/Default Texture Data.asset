@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16d5537209be2554a8ae64ec9e712415, type: 3}
+  m_Name: Default Texture Data
+  m_EditorClassIdentifier: 
+  m_autoUpdate: 1
+  m_directionalLightFlare: {fileID: 12100000, guid: 0e5f153f2f9d947ba914bbf16a151626,
+    type: 2}
+  m_colorAmplify: 3
+  layers:
+  - layerName: Water
+    color: {r: 0, g: 1, b: 0.6612811, a: 0}
+    startHeight: 0.01
+    blendStrength: 0.01
+  - layerName: Coast
+    color: {r: 1, g: 0.5330188, b: 0.8567574, a: 0}
+    startHeight: 0.012
+    blendStrength: 0.02
+  - layerName: Grass
+    color: {r: 0, g: 0.509434, b: 0.045948975, a: 0}
+    startHeight: 0.092
+    blendStrength: 0.034
+  - layerName: Grass 2
+    color: {r: 0, g: 0.6698113, b: 0.08930825, a: 0}
+    startHeight: 0.4
+    blendStrength: 0.56
+  - layerName: Rock
+    color: {r: 0.15220135, g: 0, b: 0.5188679, a: 0}
+    startHeight: 0.788
+    blendStrength: 0.755
+  - layerName: Snow
+    color: {r: 1, g: 1, b: 1, a: 0}
+    startHeight: 0.962
+    blendStrength: 0.328

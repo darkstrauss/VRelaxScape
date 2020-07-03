@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e0f0ad019c54e8439dc123601fc7c6c, type: 3}
+  m_Name: Default Terrain Noise Settings
+  m_EditorClassIdentifier: 
+  m_autoUpdate: 1
+  m_normalizeMode: 1
+  m_globalNormalizeAmplifier: 0.75
+  m_scale: 50
+  m_octaves: 4
+  m_persistance: 0.249
+  m_lacunarity: 2.87
+  m_seed: 0
+  m_offset: {x: -2.66, y: -5.78}
+  m_isUsingFalloffMap: 0
+  m_heightMultiplier: 32.29
+  m_heightCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.033050537
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.4
+      value: 0.18305054
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.55
+      value: 0.18305054
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1.0330505
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 1
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_falloffSharpness: -4.1
+  m_falloffRange: 2.3
+  m_falloffMapAmplifier: -0.06
+  m_minTreeRange: 0
+  m_maxTreeRange: 0
+  m_autoAnimate: 0
+  m_xAxisAnimate: 0
+  m_animationSpeed: 1

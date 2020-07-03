@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24e9b2ef45e935e40aa3ab650e17b6d6, type: 3}
+  m_Name: Default Cloud Data
+  m_EditorClassIdentifier: 
+  m_autoUpdate: 1
+  m_autoAnimate: 1
+  m_visibleDistanceThreshold: 355
+  m_maxPossibleVisibleClouds: 35
+  m_disappearRate: 0.729
+  m_cloudHeightInWorld: 38.4
+  m_baseMovementSpeed: 1.055
+  m_clouds:
+  - {fileID: 1256164879944908, guid: 7469fcb3ac5f5464d93b328f9256ce00, type: 3}
+  - {fileID: 1113774720717508, guid: 01f4aee639d0a8346aae53d9e27c0e83, type: 3}
+  - {fileID: 1939396602271958, guid: 3009ac9fd6ec2f54891c3ed2911cce5c, type: 3}
+  - {fileID: 1299641575754952, guid: fa0b504c0b9aed54988ede01541636ee, type: 3}
+  - {fileID: 1614779352012992, guid: f841676e61eac2a4bba90677e8e70039, type: 3}
+  m_cloudBurstParticles:
+  - {fileID: 1753776141928924, guid: 045d5fbbf8161ea478959fe3c8e41207, type: 3}
+  - {fileID: 1248331578108354, guid: fba3984b4d1739047b5b3e699ebda36a, type: 3}
+  - {fileID: 1949398963624892, guid: d786e2d05a34bf741b1bd7fd569828cd, type: 3}
